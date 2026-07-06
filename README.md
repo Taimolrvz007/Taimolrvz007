@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Bogotá, Cundinamarca - Colombia 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Apasionado+por+la+ciberseguridad;Construyendo+FastMoney+y+Participa%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Apasionado+por+la+ciberseguridad" alt="Typing SVG" />
 </p>
 
 ---
