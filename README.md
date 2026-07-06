@@ -11,8 +11,8 @@
 
 Soy desarrollador fullstack formado en el bootcamp **Henry**, enfocado en construir aplicaciones web y móviles con un stack moderno. Me apasiona crear productos que resuelvan problemas reales — desde billeteras digitales para freelancers en LATAM hasta plataformas de participación ciudadana.
 
-- 🌎 Bogotá,colombia
-- 💻 Actualmente Busco mi primera oportunidad de trabajo como desarrollador full stacm,frontend,o backend.
+- 🌎 Bogotá, Colombia
+- 💻 Actualmente busco mi primera oportunidad de trabajo como desarrollador full stack, frontend o backend
 - 🔐 Explorando el mundo del **ethical hacking** y la ciberseguridad
 - 📚 Aprendiendo inglés (nivel B1) mientras sigo mejorando como developer
 - ⚡ Me gusta automatizar tareas y crear herramientas/agentes de IA
@@ -52,16 +52,29 @@ Soy desarrollador fullstack formado en el bootcamp **Henry**, enfocado en constr
 
 ### 🌟 Proyectos Destacados
 
-#### 💰 [FastMoney](https://github.com/Taimolrvz007)
-Billetera digital multi-moneda pensada para freelancers de LATAM. Incluye transferencias, depósitos y un chatbot asistente (**FastBot**) potenciado con Gemini. Desplegado en Vercel (frontend) y Railway (backend), con base de datos en Neon (PostgreSQL).
-> Desarrollado en equipo junto a Ismael y Leonel.
+#### 💬 [chat-con-WebSocket](https://github.com/Taimolrvz007/chat-con-WebSocket)
+Aplicación de mensajería en tiempo real desarrollada con WebSockets (Socket.IO) para comunicación instantánea entre usuarios. Incluye arquitectura cliente-servidor y manejo de múltiples conexiones simultáneas.
+> Tecnologías: React, TypeScript, Socket.IO, Node.js, Express.
 
-#### 🏛️ [Participa+](https://github.com/Taimolrvz007)
-Plataforma cívica para la interacción entre ciudadanos y gobierno en Colombia. Permite crear reportes, visualizarlos en un mapa interactivo y hacer seguimiento de actividad reciente. Construida con React, Node, Prisma y Leaflet.
-> Proyecto individual.
+#### 🤖 [ProyectoM3_JosueKalethSalazarMejorado](https://github.com/Taimolrvz007/ProyectoM3_JosueKalethSalazarMejorado)
+Chatbot SPA con historial de conversación, integrado con Google Gemini AI. Cuenta con arquitectura serverless en Vercel y protección de API keys en el backend.
+> Tecnologías: JavaScript, HTML, CSS, Gemini AI, Vercel Functions.
 
-#### 🤖 [AutomateHub](https://github.com/Taimolrvz007)
-Servidor MCP que expone herramientas de la API de GitHub a agentes de IA, usando TypeScript, Octokit, Zod y Vitest. Proyecto capstone del bootcamp Henry.
+#### 💰 [fastmoney-backend](https://github.com/ismaelFiguera1/fastmoney-backend)
+Backend en Node.js y Express para **FastMoney**, proyecto final de billetera digital multimoneda para freelancers de LATAM.
+> Proyecto grupal (Dev Capital) junto a Ismael y Leonel. Finalizado.
+
+#### 💰 [fastmoney-frontend](https://github.com/ismaelFiguera1/fastmoney-frontend)
+Frontend en React para **FastMoney**. Incluye pantallas de autenticación, saldo, transferencias entre divisas, ingreso de dinero, meta de ahorro e historial de movimientos.
+> Proyecto grupal (Dev Capital) junto a Ismael y Leonel. Finalizado.
+
+#### 🤖 [ProyectoM5_JosueKalethSalazar - AutomateHub MCP Server](https://github.com/Taimolrvz007/ProyectoM5_JosueKalethSalazar)
+Servidor MCP (Model Context Protocol) que conecta agentes de IA directamente con la API de GitHub. Permite crear repositorios, ramas, commits multi-archivo, issues, pull requests y más, todo desde instrucciones en lenguaje natural.
+> Tecnologías: TypeScript, MCP Framework, GitHub API, Zod, Vitest.
+
+#### ✅ [ProyectoM4_JosueKalethSalazar](https://github.com/Taimolrvz007/ProyectoM4_JosueKalethSalazar)
+Plataforma de gestión de tareas (Task Manager Pro) con persistencia en la nube y sistema automático de notificaciones por correo electrónico.
+> Tecnologías: React, TypeScript, Firebase, AWS SES, Vercel Functions.
 
 ---
 
@@ -83,7 +96,7 @@ Servidor MCP que expone herramientas de la API de GitHub a agentes de IA, usando
   <a href="https://github.com/Taimolrvz007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:josuesalazarvalderrama007@gmail.co," target="_blank">
+  <a href="mailto:josuesalazarvalderrama007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kalethsalazar/" target="_blank">
@@ -93,4 +106,4 @@ Servidor MCP que expone herramientas de la API de GitHub a agentes de IA, usando
 
 ---
 
-<p align="center"><i>"Construyendo, aprendiendo y rompiendo cosas para entender cómo funcionan." </i></p>
+<p align="center"><i>"Construyendo, aprendiendo y rompiendo cosas para entender cómo funcionan."</i></p>
