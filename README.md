@@ -78,18 +78,6 @@ Plataforma de gestión de tareas (Task Manager Pro) con persistencia en la nube 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taimolrvz007&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taimolrvz007&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Contacto
 
 <p>
