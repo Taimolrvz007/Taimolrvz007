@@ -1,21 +1,30 @@
 <h1 align="center">¡Hola! Soy Josue Kaleth Salazar 👋</h1>
-<h3 align="center">Fullstack Developer | Bogotá, Cundinamarca - Colombia 🇨🇴</h3>
+<h3 align="center">Desarrollador Fullstack · React · Node.js · TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Apasionado+por+la+ciberseguridad" alt="Typing SVG" />
+  Bogotá, Colombia 🇨🇴 · <b>Abierto a mi primera oportunidad</b> como desarrollador fullstack, frontend o backend
+</p>
+
+<p align="center">
+  <a href="mailto:josuesalazarvalderrama007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalethsalazar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy desarrollador fullstack formado en el bootcamp **Henry**, enfocado en construir aplicaciones web y móviles con un stack moderno. Me apasiona crear productos que resuelvan problemas reales — desde billeteras digitales para freelancers en LATAM hasta plataformas de participación ciudadana.
+Desarrollador fullstack formado en el bootcamp **Henry**. Construyo aplicaciones web y móviles de punta a punta: desde la interfaz hasta la API y la base de datos. Me motiva crear productos que resuelven problemas reales, como billeteras digitales para freelancers en LATAM y plataformas de participación ciudadana.
 
-- 🌎 Bogotá, Colombia
-- 💻 Actualmente busco mi primera oportunidad de trabajo como desarrollador full stack, frontend o backend
-- 🔐 Explorando el mundo del **ethical hacking** y la ciberseguridad
-- 📚 Aprendiendo inglés (nivel B1) mientras sigo mejorando como developer
-- ⚡ Me gusta automatizar tareas y crear herramientas/agentes de IA
+### 🎯 Lo que hago
+
+- **Frontend:** interfaces con React, TypeScript, Vite y Expo (móvil)
+- **Backend:** APIs REST con Node.js, Express, Prisma y PostgreSQL, documentadas con Swagger
+- **IA y automatización:** integración de Gemini API y servidores MCP para crear herramientas y agentes
 
 ---
 
@@ -33,7 +42,6 @@ Soy desarrollador fullstack formado en el bootcamp **Henry**, enfocado en constr
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -52,29 +60,37 @@ Soy desarrollador fullstack formado en el bootcamp **Henry**, enfocado en constr
 
 ### 🌟 Proyectos Destacados
 
-#### 💬 [chat-con-WebSocket](https://github.com/Taimolrvz007/chat-con-WebSocket)
-Aplicación de mensajería en tiempo real desarrollada con WebSockets (Socket.IO) para comunicación instantánea entre usuarios. Incluye arquitectura cliente-servidor y manejo de múltiples conexiones simultáneas.
-> Tecnologías: React, TypeScript, Socket.IO, Node.js, Express.
+#### 💰 FastMoney — billetera digital multimoneda para freelancers de LATAM
+Proyecto final del bootcamp, desplegado en producción. Soporta EUR, USD, COP y ARS, con transferencias entre divisas, ingreso de dinero, meta de ahorro, historial de movimientos y un chatbot con Gemini.
+> **Stack:** React, TypeScript, Vite, Node.js, Express, Prisma, PostgreSQL, AWS SES, Gemini API
+> **Equipo:** Dev Capital, junto a Ismael y Leonel · [Backend](https://github.com/ismaelFiguera1/fastmoney-backend) · [Frontend](https://github.com/ismaelFiguera1/fastmoney-frontend) · [Demo](#)
 
-#### 🤖 [ProyectoM3_JosueKalethSalazarMejorado](https://github.com/Taimolrvz007/ProyectoM3_JosueKalethSalazarMejorado)
-Chatbot SPA con historial de conversación, integrado con Google Gemini AI. Cuenta con arquitectura serverless en Vercel y protección de API keys en el backend.
-> Tecnologías: JavaScript, HTML, CSS, Gemini AI, Vercel Functions.
+#### 🗳️ Participa+ — plataforma de participación ciudadana en Colombia
+Proyecto personal en desarrollo. Los ciudadanos crean reportes ubicándolos en un mapa, hacen seguimiento a su estado y los ven en un mapa interactivo con filtros por tipo.
+> **Stack:** React, TypeScript, Vite, Leaflet, Node.js, Express, Prisma, PostgreSQL, JWT
+> [Repositorio](#) · [Demo](#)
 
-#### 💰 [fastmoney-backend](https://github.com/ismaelFiguera1/fastmoney-backend)
-Backend en Node.js y Express para **FastMoney**, proyecto final de billetera digital multimoneda para freelancers de LATAM.
-> Proyecto grupal (Dev Capital) junto a Ismael y Leonel. Finalizado.
+#### 🤖 [AutomateHub MCP Server](https://github.com/Taimolrvz007/ProyectoM5_JosueKalethSalazar)
+Servidor MCP (Model Context Protocol) que conecta agentes de IA con la API de GitHub. Permite crear repositorios, ramas, commits multi-archivo, issues y pull requests desde instrucciones en lenguaje natural.
+> **Stack:** TypeScript, MCP Framework, GitHub API, Zod, Vitest
 
-#### 💰 [fastmoney-frontend](https://github.com/ismaelFiguera1/fastmoney-frontend)
-Frontend en React para **FastMoney**. Incluye pantallas de autenticación, saldo, transferencias entre divisas, ingreso de dinero, meta de ahorro e historial de movimientos.
-> Proyecto grupal (Dev Capital) junto a Ismael y Leonel. Finalizado.
+#### ✅ [Task Manager Pro](https://github.com/Taimolrvz007/ProyectoM4_JosueKalethSalazar)
+Gestor de tareas con persistencia en la nube y notificaciones automáticas por correo electrónico.
+> **Stack:** React, TypeScript, Firebase, AWS SES, Vercel Functions
 
-#### 🤖 [ProyectoM5_JosueKalethSalazar - AutomateHub MCP Server](https://github.com/Taimolrvz007/ProyectoM5_JosueKalethSalazar)
-Servidor MCP (Model Context Protocol) que conecta agentes de IA directamente con la API de GitHub. Permite crear repositorios, ramas, commits multi-archivo, issues, pull requests y más, todo desde instrucciones en lenguaje natural.
-> Tecnologías: TypeScript, MCP Framework, GitHub API, Zod, Vitest.
+#### 💬 [Chat en tiempo real](https://github.com/Taimolrvz007/chat-con-WebSocket)
+Mensajería instantánea con WebSockets (Socket.IO) y manejo de múltiples conexiones simultáneas.
+> **Stack:** React, TypeScript, Socket.IO, Node.js, Express
 
-#### ✅ [ProyectoM4_JosueKalethSalazar](https://github.com/Taimolrvz007/ProyectoM4_JosueKalethSalazar)
-Plataforma de gestión de tareas (Task Manager Pro) con persistencia en la nube y sistema automático de notificaciones por correo electrónico.
-> Tecnologías: React, TypeScript, Firebase, AWS SES, Vercel Functions.
+#### 🧠 [Chatbot con Gemini](https://github.com/Taimolrvz007/ProyectoM3_JosueKalethSalazarMejorado)
+SPA con historial de conversación, integrada con Google Gemini y arquitectura serverless en Vercel. La API key queda protegida en el backend.
+> **Stack:** JavaScript, HTML, CSS, Gemini AI, Vercel Functions
+
+---
+
+### 🌱 Ahora mismo
+
+Mejorando mi inglés (B1) y explorando ethical hacking y ciberseguridad.
 
 ---
 
@@ -92,6 +108,4 @@ Plataforma de gestión de tareas (Task Manager Pro) con persistencia en la nube 
   </a>
 </p>
 
----
-
-<p align="center"><i>"Construyendo, aprendiendo y rompiendo cosas para entender cómo funcionan."</i></p>
+<p align="center"><i>Si buscas a alguien con iniciativa y ganas de aprender rápido, escríbeme.</i></p>
